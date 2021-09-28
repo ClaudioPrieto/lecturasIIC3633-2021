@@ -1,0 +1,9 @@
+#Lecutura 6: Deep Learning Recommender System
+
+El paper de esta semana habla sobre los sitemas recomendadores basados en redes neuronales. En este se muestran las diferentes tecnicas de _deep learning_ que se utilizan en las diferentes areas de la intelogencia artificial, tambien se dan las razones de porque es buena idea implementar este tipo de algoritmos en sistemas recomendadores. Finalmente se hace un repaso del estado del arte actual en el area de redes neuronales aplicadas a sistmas recomendadores, citando una serie de papers recientes donde se muestran tecnicas como _Multilayer Perceptron based Recommendation_, _Autoencoder based Recomendation_ y _Convolutional Neural Networks based Recommendation_.
+
+Los autores del paper hablan de como _Deep learning_ obtiene mejores resultados que metodos como el filtrado colaborativo, seria intersante poder observar una tabla comparativo con una serie de algoritmos implementados con un dataset en comun, de tal forma que se verifique las diferencias de los resultados entre diferentes tecnicas y de esta forma cuantificar la diferencia entre los resultados.
+
+Es intersante que se hable de la limitacion que tiene _deep learning_ respecto a poder interpretar los resultados que entrega sobre los datos, ya que en sistemas recomendadores es importante entender el porque de una recomendacion para poder ir haciendo cambios con algun tipo de direccion y no a ciegas. Cuando se tiene una caja negra no queda otra que probar diferentes parametros y elegir el que te de mejor resultado.
+
+La gran cantidad de tecnicas que existen en _Deep Learning_ hacen que existan gran cantidad de estudios en diferentes areas. Este paper hace un gran trabajo en aterrizar lo que se a aplicado hasta el momento y logra hacer un buen resumen para cualquier investigador que este interasado en empezar a implentar algoritmos de _Deep Learning_ en Sistemas Recomendadores. 
